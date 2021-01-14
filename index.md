@@ -16,7 +16,9 @@
 <script type="text/javascript">
   var options = {
     width: "100%",
-    channel: "Effervenscia"
+    channel: "Effervenscia",
+
+    parent: ["effervenscia.com"]
   };
   var player = new Twitch.Player("Twitch-Player", options);
   player.setVolume(0.5);
