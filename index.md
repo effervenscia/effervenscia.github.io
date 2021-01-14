@@ -15,7 +15,7 @@
 <div id="Twitch-Player"></div>
 <script type="text/javascript">
   var options = {
-    width: 100%,
+    width: "100%",
     channel: "Effervenscia"
   };
   var player = new Twitch.Player("Twitch-Player", options);
