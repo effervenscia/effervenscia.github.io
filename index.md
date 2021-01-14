@@ -5,4 +5,4 @@
 
 {% include button.html text="Twitch" icon="twitch" link="https://twitch.tv/effervenscia" color="#9146FF" %}
 {% include button.html text="Twitter" icon="twitter" link="https://twitter.com/effervenscia" color="#1DA1F2" %}
-{% include button.html text="YouTube" icon="youtube" link="https://youtube.com/effervenscia" color="#FF0000" %}
+{% include button.html text="YouTube" icon="youtube" link="https://www.youtube.com/channel/UCJWHqSk91IklDBG6BtlL4UQ" color="#FF0000" %}
