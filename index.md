@@ -1,4 +1,4 @@
-% Effervenscia
+title: Effervenscia
 
 <h1>Here are my links.</h1>
 <h2> Thank you.</h2>
