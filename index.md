@@ -1,6 +1,3 @@
----
-layout: page
----
 % Effervenscia
 
 <h1>Here are my links.</h1>
